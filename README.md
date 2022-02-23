@@ -1,11 +1,6 @@
-# Supabase UI
+# Ember UI
 
-Supabase UI is a React UI library.
-
-🚧  
-Supabase UI is still a work-in-progress until a major release is published.
-
-[![Product hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=290768&theme=light)](https://www.producthunt.com/posts/supabase-ui)
+Ember UI is a React UI library based in Superbase UI.
 
 
 [View docs](https://ui.supabase.com)
