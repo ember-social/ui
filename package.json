@@ -108,7 +108,7 @@
       "/node_modules/(?!react-feather)"
     ]
   },
-  "description": "Supabase UI is a React UI library.",
+  "description": "Ember UI is a React UI library.",
   "directories": {
     "doc": "docs"
   },
@@ -121,5 +121,10 @@
   "bugs": {
     "url": "https://github.com/ember-social/ui/issues"
   },
-  "homepage": "https://github.com/ember-social/ui#readme"
+  "homepage": "https://github.com/ember-social/ui#readme",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
 }
