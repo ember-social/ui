@@ -130,6 +130,7 @@ const Button = forwardRef<RefHandle, ButtonProps>(
       return <Tag {...props} />
     }
 
+    // Render Button
     const RenderedButton = ({ children }: any) =>
       as ? (
         <CustomButton
