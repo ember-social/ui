@@ -3,7 +3,7 @@
 Ember UI is a React UI library.
 
 [View Supabase Root Docs](https://ui.supabase.com)
-
+.
 ## Install Ember UI
 
 ```cli
