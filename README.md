@@ -1,6 +1,6 @@
 # Ember UI
 
-Ember UI is a React UI library.
+Ember UI is a React UI library..
 
 [View Supabase Root Docs](https://ui.supabase.com)
 .
